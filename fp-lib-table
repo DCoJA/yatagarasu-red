@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name droneworks)(type KiCad)(uri "$(KIPRJMOD)\\droneworks.pretty")(options "")(descr ""))
+  (lib (name Seeed-Switch-2016)(type Legacy)(uri "$(KIPRJMOD)\\Seeed-Switch-2016.mod")(options "")(descr ""))
+)

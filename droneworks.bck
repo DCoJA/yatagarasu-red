@@ -1,0 +1,168 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 96B_LS_CONN_02X20
+D Connector, double row, 02x20
+K connector
+$ENDCMP
+#
+$CMP AP2120N-1.8TRG1
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-15-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 1.5V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-16-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 1.6V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-17-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 1.7V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-18-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 1.8V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-19-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 1.9V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-20-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.0V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-21-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.1V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-22-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.2V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-23-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.3V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-24-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.4V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-25-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-26-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.6V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-27-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.7V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-28-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-29-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 2.9V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-30-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 3.0V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-31-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 3.1V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-32-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 3.2V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP APE8865N-33-HF-3
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23
+K 300mA LDO Regulator Fixed Positive
+F http://www.a-powerusa.com/docs/APE8865-3.pdf
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP CONN_01X04
+D Connector, single row, 01x04
+K connector
+$ENDCMP
+#
+$CMP CONN_01X05
+D Connector, single row, 01x05
+K connector
+$ENDCMP
+#
+$CMP CONN_01X06
+D Connector, single row, 01x06
+K connector
+$ENDCMP
+#
+$CMP CONN_02X20
+D Connector, double row, 02x20
+K connector
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP TEST_1P
+D point
+K point tp
+$ENDCMP
+#
+#End Doc Library

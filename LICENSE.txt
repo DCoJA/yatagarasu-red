@@ -1,0 +1,33 @@
+Licenses list
+Copyright (c) 2017 DroneWorks Inc.
+All rights reserved.
+
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+Creative Commons
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+http://creativecommons.org/licenses/by-sa/4.0/
+
+License of files included:
+
+droneworks.lib
+  Copyright (c) 2016 DroneWorks Inc.
+  SPDX-License-Identifier: CC-BY-NC-SA-4.0
+  Creative Commons
+  Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+  http://creativecommons.org/licenses/by-sa/4.0/
+
+droneworks.pretty directory
+  Copyright (c) 2016 DroneWorks Inc.
+  SPDX-License-Identifier: CC-BY-NC-SA-4.0
+  Creative Commons
+  Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+  http://creativecommons.org/licenses/by-sa/4.0/
+
+Seeed-Switch-2016.lib
+  https://github.com/Seeed-Studio/OPL_Eagle_Library
+  License unspecified
+
+Seeed-Switch-2016.mod
+  https://github.com/Seeed-Studio/OPL_Eagle_Library
+  License unspecified

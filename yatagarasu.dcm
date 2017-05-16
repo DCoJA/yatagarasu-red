@@ -1,0 +1,190 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1.8V
+K POWER, PWR
+$ENDCMP
+#
+$CMP AP1117D15
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117D18
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117D25
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117D33
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117D50
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117E15
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117E18
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117E25
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117E33
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117E50
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117K15
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117K18
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117K25
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117K33
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117K50
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117T15
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117T18
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117T25
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117T33
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117T50
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117Y15
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117Y18
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117Y25
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117Y33
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AP1117Y50
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AWS1117_1.8V
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AWS1117_3.3V
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP AWS1117_5V
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP CONN_01X04
+D Connector, single row, 01x04
+K connector
+$ENDCMP
+#
+$CMP CONN_01X05
+D Connector, single row, 01x05
+K connector
+$ENDCMP
+#
+$CMP CONN_01X06
+D Connector, single row, 01x06
+K connector
+$ENDCMP
+#
+#End Doc Library
