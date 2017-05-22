@@ -6,11 +6,11 @@ Kicad file of the shield which is to run ArduPilot on 96Boards.
 
 Kicad project file
 
-	yatagarasu-fit.pro
+* yatagarasu-fit.pro
 
 Schematic
 
-	[yatagarasu-fit.pdf](./yatagarasu-fit.pdf)
+* [yatagarasu-fit.pdf](./yatagarasu-fit.pdf)
 
 ## Images
 
