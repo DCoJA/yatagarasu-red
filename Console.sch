@@ -46,7 +46,7 @@ Comp "DroneWorks Inc."
 Comment1 "Copyright (c) 2017 DroneWorks Inc."
 Comment2 "All rights reserved."
 Comment3 "Creative Commons  (CC BY-SA 4.0)"
-Comment4 "Designed by: Michihiro Imaoka, Akira Tsukamoto"
+Comment4 "Designed by: Akira Tsukamoto, Michihiro Imaoka"
 $EndDescr
 $Comp
 L R R44
