@@ -46,6 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# git
+.gitignore
+
 # Ignore files for KiCad
 
 *pcb
@@ -58,4 +61,4 @@ no-upload
 png*
 pdf-*
 garber-*
-
+*.3dmodels
