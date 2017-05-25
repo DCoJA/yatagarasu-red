@@ -14,7 +14,7 @@ Schematic
 
 ## Images
 
-![3D-model-top-kicad](./images/3d-top-20170331-21-s.png)
-![3D-model-top-details](./images/3d-top-20170331-21-1-s.png)
-![3D-model-bottom-kicad](./images/3d-bottom-20170331-17-s.png)
-![PCB-TOP](./images/yagarasu-red-front-board-g-1-s.jpg)
+![3D-model-top-kicad](./images/3d-top-20170331-21-s-s.png)
+![3D-model-top-details](./images/3d-top-20170331-21-1-s-s.png)
+![3D-model-bottom-kicad](./images/3d-bottom-20170331-17-s-s.png)
+![PCB-TOP](./images/yatagarasu-red-top-after-components.jpg)
