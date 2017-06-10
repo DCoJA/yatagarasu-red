@@ -46,10 +46,10 @@ Comp "DroneWorks Inc."
 Comment1 "Copyright (c) 2017 DroneWorks Inc."
 Comment2 "All rights reserved."
 Comment3 "Creative Commons  (CC BY-SA 4.0)"
-Comment4 "Designed by: Michihiro Imaoka, Akira Tsukamoto"
+Comment4 "Designed by: Akira Tsukamoto, Michihiro Imaoka"
 $EndDescr
 $Comp
-L MCP2515 U11
+L MCP2515-TSSOP20 U11
 U 1 1 56F7C46B
 P 4600 3850
 F 0 "U11" H 4200 4650 60  0000 C CNN

@@ -41,12 +41,12 @@ encoding utf-8
 Sheet 1 8
 Title "DCoJA Yatagarasu Mezzanine"
 Date "2017-03-31"
-Rev "0.10"
+Rev "0.10.1"
 Comp "DroneWorks Inc."
 Comment1 "Copyright (c) 2017 DroneWorks Inc."
 Comment2 "All rights reserved."
 Comment3 "Creative Commons  (CC BY-SA 4.0)"
-Comment4 "Designed by: Akira Tsukamoto, Michihiro Imaoka"
+Comment4 "Designed by: Akira Tsukamoto"
 $EndDescr
 $Comp
 L PCA9306 U3

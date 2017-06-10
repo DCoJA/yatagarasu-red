@@ -41,7 +41,7 @@ encoding utf-8
 Sheet 3 8
 Title "DCoJA Yatagarasu Mezzanine"
 Date "2017-03-31"
-Rev "0.10"
+Rev "0.10.1"
 Comp "DroneWorks Inc."
 Comment1 "Copyright (c) 2017 DroneWorks Inc."
 Comment2 "All rights reserved."

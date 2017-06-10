@@ -41,7 +41,7 @@ encoding utf-8
 Sheet 7 8
 Title "DCoJA Yatagarasu Mezzanine"
 Date "2017-03-31"
-Rev "0.10"
+Rev "0.10.1"
 Comp "DroneWorks Inc."
 Comment1 "Copyright (c) 2017 DroneWorks Inc."
 Comment2 "All rights reserved."
@@ -52,7 +52,7 @@ $Comp
 L R R44
 U 1 1 5703FA06
 P 5350 3750
-F 0 "R44" V 5250 3750 50  0000 C CNN
+F 0 "R44" V 5200 3750 50  0000 C CNN
 F 1 "22" V 5350 3750 50  0000 C CNN
 F 2 "droneworks:R_0603_Hand_droneworks" V 5280 3750 30  0001 C CNN
 F 3 "" H 5350 3750 30  0000 C CNN
@@ -440,9 +440,9 @@ Wire Wire Line
 	6900 3700 8050 3700
 Wire Wire Line
 	5850 4750 5850 4700
-Text HLabel 8650 3500 2    60   Input ~ 0
+Text HLabel 8650 3600 2    60   Input ~ 0
 tty96B1_TXD_Output
-Text HLabel 8650 3600 2    60   Output ~ 0
+Text HLabel 8650 3500 2    60   Output ~ 0
 tty96B1_RXD_Input
 Connection ~ 4600 4700
 Text Label 5200 2350 0    60   ~ 0
