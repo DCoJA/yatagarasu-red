@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source //LANDISK-HDL2/disk/Documents-a/Linaro/LinaroBoard/Mezzanine/Yatagarasu/yatagarasu-red_20170331-22/yatagarasu-fit.sch)
+    (source C:/Users/Public/Kicad/yatagarasu-fit_20170331-9/yatagarasu-fit.sch)
     (date "6/3/2017 9:05:09 PM")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
