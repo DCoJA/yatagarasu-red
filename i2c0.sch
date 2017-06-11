@@ -46,7 +46,7 @@ Comp "DroneWorks Inc."
 Comment1 "Copyright (c) 2017 DroneWorks Inc."
 Comment2 "All rights reserved."
 Comment3 "Creative Commons  (CC BY-SA 4.0)"
-Comment4 "Designed by: Akira Tsukamoto, Michihiro Imaoka"
+Comment4 "Designed by: Akira Tsukamoto"
 $EndDescr
 Text HLabel 3850 2000 0    60   BiDi ~ 0
 I2C0_SCL_3V3
