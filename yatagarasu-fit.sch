@@ -279,8 +279,6 @@ Text GLabel 8450 1200 2    60   Output ~ 0
 SPI0_CS
 Text GLabel 8450 1300 2    60   Output ~ 0
 SPI0_MOSI
-Text GLabel 8450 2000 2    60   Input ~ 0
-GPIO_F
 Text GLabel 7650 2000 0    60   Output ~ 0
 GPIO_E
 $Comp
@@ -380,13 +378,13 @@ GPIO_A
 Text GLabel 950  3750 0    60   Input ~ 0
 GPIO_B
 Text GLabel 950  3850 0    60   Input ~ 0
-GPIO_C
+GPIO_G
 Text GLabel 950  3950 0    60   Input ~ 0
-GPIO_D
+GPIO_H
 Text GLabel 950  4050 0    60   Input ~ 0
 GPIO_E
 Text GLabel 6950 3650 2    60   Output ~ 0
-GPIO_F
+GPIO_C
 Text GLabel 6950 3550 2    60   Output ~ 0
 SPI0_MISO
 $Comp
@@ -523,9 +521,9 @@ F 3 "" H 6400 2850 60  0000 C CNN
 $EndComp
 Text GLabel 950  3550 0    60   Input ~ 0
 SPI0_CS
-Text GLabel 7650 1900 0    60   Output ~ 0
+Text GLabel 7650 1900 0    60   Input ~ 0
 GPIO_C
-Text GLabel 8450 1900 2    60   Output ~ 0
+Text GLabel 8450 1900 2    60   Input ~ 0
 GPIO_D
 $Comp
 L C CB7
@@ -627,7 +625,7 @@ F 3 "" H 7000 4250 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 6950 3750 2    60   Output ~ 0
-PCM_DO
+GPIO_D
 $Comp
 L R R4
 U 1 1 5703FBE3
@@ -707,12 +705,10 @@ F 3 "" H 3300 2700 50  0000 C CNN
 $EndComp
 NoConn ~ 7800 900 
 NoConn ~ 7800 1100
-NoConn ~ 7800 2100
 NoConn ~ 7800 2200
 NoConn ~ 7800 2300
 NoConn ~ 8300 2300
 NoConn ~ 8300 2200
-NoConn ~ 8300 2100
 NoConn ~ 5750 5450
 NoConn ~ 5750 5750
 $Comp
@@ -914,8 +910,6 @@ F 3 "" H 4850 1800 50  0000 C CNN
 	1    4850 1800
 	1    0    0    -1  
 $EndComp
-Text GLabel 8450 1600 2    60   Input ~ 0
-PCM_DO
 NoConn ~ 8300 1700
 NoConn ~ 8300 1500
 NoConn ~ 8300 1400
@@ -1160,8 +1154,6 @@ Wire Wire Line
 Wire Wire Line
 	8300 1300 8450 1300
 Wire Wire Line
-	8300 2000 8450 2000
-Wire Wire Line
 	7650 2000 7800 2000
 Wire Wire Line
 	9250 1850 9250 2050
@@ -1293,8 +1285,6 @@ Connection ~ 8800 2400
 Connection ~ 9450 1850
 Connection ~ 9250 1850
 Connection ~ 6950 2200
-Wire Wire Line
-	8300 1600 8450 1600
 Wire Wire Line
 	10350 2950 11000 2950
 Wire Wire Line
@@ -1536,4 +1526,14 @@ Text Label 7050 1200 0    51   ~ 0
 UART1_TxD_Output
 Text Label 7050 1300 0    51   ~ 0
 UART1_RxD_Input
+Text GLabel 7650 2100 0    60   Output ~ 0
+GPIO_G
+Wire Wire Line
+	7800 2100 7650 2100
+Text GLabel 8450 2100 2    60   Output ~ 0
+GPIO_H
+Wire Wire Line
+	8300 2100 8450 2100
+NoConn ~ 8300 1600
+NoConn ~ 8300 2000
 $EndSCHEMATC
