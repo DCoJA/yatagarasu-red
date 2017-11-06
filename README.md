@@ -12,10 +12,22 @@ Schematic
 
 * [yatagarasu-fit.pdf](./yatagarasu-fit.pdf)
 
+## Videos on youtube of the first flight
+
+* Used DragonBoard 410C (Snapdragon 410E).
+
+### Video in English
+
+[![](./images/yatagarasu4-music-en.png)](https://www.youtube.com/watch?v=AuMpDXEWkLk)
+
+### Video in Japanese
+
+[![](./images/yatagarasu4-music-jp.png)](https://www.youtube.com/watch?v=8HEuyZ0l6P4)
+
 ## Images
 
-![3D-model-top-kicad](./images/3d-top-20170331-23-s-s.jpg)
-![3D-model-top-details](./images/3d-top-20170331-23-1-s-s.jpg)
-![3D-model-bottom-kicad](./images/3d-bottom-20170331-17-s-s.png)
+![3D-model-top-kicad](./images/3d-top-20170331-25-s.png)
+![3D-model-top-details](./images/3d-top-20170331-25-real-s.png)
+![3D-model-bottom-kicad](./images/3d-bottom-20170331-25-s.png)
 ![PCB-TOP-left](./images/yatagarasu-top-front-left-s.jpg)
 ![PCB-TOP-right](./images/yatagarasu-top-front-right-s.jpg)
