@@ -354,7 +354,7 @@ F 1 "CAN" V 9200 3500 50  0000 C CNN
 F 2 "droneworks:GH_4P_side_droneworks" H 9100 3500 60  0001 C CNN
 F 3 "" H 9100 3500 60  0000 C CNN
 	1    9100 3500
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	8900 3450 8800 3450
@@ -364,8 +364,6 @@ Wire Wire Line
 	8900 3550 8800 3550
 Wire Wire Line
 	8800 3550 8800 3650
-NoConn ~ 8900 3350
-NoConn ~ 8900 3650
 Connection ~ 5500 4300
 Wire Wire Line
 	2950 4350 2950 4450
@@ -400,4 +398,32 @@ F 3 "" H 7750 3500 50  0000 C CNN
 	1    7750 3500
 	1    0    0    -1  
 $EndComp
+Text Notes 7350 7500 0    60   ~ 0
+CAN I/F (SPI)
+$Comp
+L +5V #PWR073
+U 1 1 5A32F9DD
+P 8900 3200
+F 0 "#PWR073" H 8900 3050 50  0001 C CNN
+F 1 "+5V" H 8900 3340 50  0000 C CNN
+F 2 "" H 8900 3200 50  0001 C CNN
+F 3 "" H 8900 3200 50  0001 C CNN
+	1    8900 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR074
+U 1 1 5A32FADB
+P 8900 3800
+F 0 "#PWR074" H 8900 3550 50  0001 C CNN
+F 1 "GND" H 8900 3650 50  0000 C CNN
+F 2 "" H 8900 3800 50  0000 C CNN
+F 3 "" H 8900 3800 50  0000 C CNN
+	1    8900 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 3650 8900 3800
+Wire Wire Line
+	8900 3350 8900 3200
 $EndSCHEMATC
