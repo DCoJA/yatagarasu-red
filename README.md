@@ -30,5 +30,8 @@ Schematic
 ![3D-model-top-kicad](./images/3d-top-20170331-25-s.png)
 ![3D-model-top-details](./images/3d-top-20170331-25-real-s.png)
 ![3D-model-bottom-kicad](./images/3d-bottom-20170331-25-s.png)
+  
+PCB Layout  
+![kicad-pcbnew](./images/kicad-pcbnew-screen-s.png)
 ![PCB-TOP-left](./images/yatagarasu-top-front-left-s.jpg)
 ![PCB-TOP-right](./images/yatagarasu-top-front-right-s.jpg)
